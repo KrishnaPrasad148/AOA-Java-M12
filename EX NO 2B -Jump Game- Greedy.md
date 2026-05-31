@@ -58,6 +58,7 @@ public class JumpGame {
 
 ## Output:
 
+<img width="753" height="248" alt="output2" src="https://github.com/user-attachments/assets/dcbc1a09-e6dc-45e5-a49e-76fc484171b4" />
 
 
 ## Result:
