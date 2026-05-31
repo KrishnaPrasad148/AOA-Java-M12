@@ -71,6 +71,7 @@ public class NaivePatternSearch {
 ```
 ## Output:
 
+<img width="784" height="259" alt="output4" src="https://github.com/user-attachments/assets/8c542e49-8439-4610-9fca-cfa81e819e5f" />
 
 
 ## Result:
