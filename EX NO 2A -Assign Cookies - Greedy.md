@@ -60,6 +60,7 @@ public class AssignCookies
 
 ## Output:
 
+<img width="342" height="344" alt="output1" src="https://github.com/user-attachments/assets/8cac1079-2cbe-4f58-ab49-d98c08af423d" />
 
 
 ## Result:
